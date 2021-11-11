@@ -7,12 +7,12 @@ The objective of this project is to find out the best strategy to win in PUBG an
 Question/need:
 •	What is the best strategy to win in PUBG?
 •	Should you sit in one place and hide on your way to victory, or do you need to be in the lead?
-Tools
+# Tools
 •	Python in Jupyter notebook 
 •	Numpy and Pandas for data manipulation
 •	Matplotlib and Seaborn for plotting
 •	Tableau for interactive visualizations
-Data Description:
+# Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website here
 The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. These numbers are consistent with our commonsense of PUBG a group consisting of 3 or 4 players, about 100 players can play in a single match. its consisting of train and test sets and needed to predict final placement from final in game stats and initial player rate. For better understanding of database there is a columns description below:
 groupId - Players team ID
@@ -45,13 +45,13 @@ And our target column:
 winPlacePerc - Normalised placement (rank). The 1st place is 1 and the last one is 0.
 
 
-Algorithms
+# Algorithms
 First, we will clean up the data by finding and removing nulls and duplicate values.
 After that, the average of dividing the number of players in one map is calculated, then the average is calculated for each of (Killers, Runners , Drivers, Swimmers, The Healers, Solos, Duos and Squads).
 This data helps us determine the highest percentage or strategy for winning players in the first place.
 Finally, show and model the data and use what we've learned to improve this game play, answering our questions.
 
-Communication
+# Communication
 Please feel free to let me know if you have any questions.
 Email:  tahani.almutery@gmail.com and maram.alfaifi@hotmail.com
 
