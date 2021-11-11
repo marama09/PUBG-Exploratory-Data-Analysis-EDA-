@@ -1,4 +1,5 @@
 # PUBG_best_strategy_to_win
+   <center><img src="https://www.vga4a.com/wp-content/uploads/youtubegaming2560_1440.jpg" alt="centered image" height="400" width="900"> </center>
  <img src="https://www.vga4a.com/wp-content/uploads/youtubegaming2560_1440.jpg" width="900" height="400" class="center" alt="accessibility text">
 
 ## Introduction 
