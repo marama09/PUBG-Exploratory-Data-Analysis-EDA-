@@ -7,7 +7,7 @@ Battle Royale style video games have taken over the world. PUBG is very popular 
 
 ## Motivation <br>
 The objective of this project is to find out the best strategy to win in PUBG and infer the probability of the team cheating in the game from this data provided by the PUBG team as they made the official game data available for the public to explore and search for outside the “blue circle”.
-Question/need:
+## Question/need:
 •	What is the best strategy to win in PUBG?
 •	Should you sit in one place and hide on your way to victory, or do you need to be in the lead?
 ## Tools
