@@ -16,7 +16,7 @@ Question/need:
 •	Matplotlib and Seaborn for plotting
 •	Tableau for interactive visualizations
 ## Data Description:
-Reference: Kaggle Your Machine Learning and Data Science Website here
+Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
 The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. These numbers are consistent with our commonsense of PUBG a group consisting of 3 or 4 players, about 100 players can play in a single match. its consisting of train and test sets and needed to predict final placement from final in game stats and initial player rate. For better understanding of database there is a columns description below:
 groupId - Players team ID
 assists - Number of assisted kills. The killed is actually scored for another teammate.
