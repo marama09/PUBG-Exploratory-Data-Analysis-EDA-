@@ -1,5 +1,5 @@
 # PUBG_best_strategy_to_win
-# # Introduction 
+## Introduction 
 Battle Royale style video games have taken over the world. PUBG is very popular it's the fifth best-selling game of all time with millions of players.100 players are dropped on an empty island and must explore, hunt, and eliminate other players to only one player remains until the play area ends. There are 3 playing modes in the game. One can play alone, with a friend (a duo), or with 3 other friends (a squad).
 
 # Motivation <br>
