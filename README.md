@@ -18,14 +18,14 @@ The objective of this project is to find out the best strategy to win in PUBG an
 ## Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
 The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. These numbers are consistent with our commonsense of PUBG a group consisting of 3 or 4 players, about 100 players can play in a single match. its consisting of train and test sets and needed to predict final placement from final in game stats and initial player rate. For better understanding of database there is a columns description below:
-groupId - Players team ID
-assists - Number of assisted kills. The killed is actually scored for another teammate.
-boosts - Number of boost items used by a player. These are for example: energy dring, painkillers, adrenaline syringe.
-damageDealt - Damage dealt to the enemy
-DBNOs - Down But No Out - when you lose all your HP but you're not killed yet. All you can do is only to crawl.
-headshotKills - Number of enemies killed with a headshot
-heals - Number of healing items used by a player. These are for example: bandages, first-aid kits
-killPlace - Ranking in a match based on kills.
+- groupId - Players team ID
+- assists - Number of assisted kills. The killed is actually scored for another teammate.
+- boosts - Number of boost items used by a player. These are for example: energy dring, painkillers, adrenaline syringe.
+- damageDealt - Damage dealt to the enemy
+- DBNOs - Down But No Out - when you lose all your HP but you're not killed yet. All you can do is only to crawl.
+- headshotKills - Number of enemies killed with a headshot
+- heals - Number of healing items used by a player. These are for example: bandages, first-aid kits
+- killPlace - Ranking in a match based on kills.
 killPoints - Ranking in a match based on kills points.
 kills - Number of enemy players killed.
 killStreaks - Max number of enemy players killed in a short amount of time.
