@@ -8,13 +8,13 @@ Battle Royale style video games have taken over the world. PUBG is very popular 
 ## Motivation <br>
 The objective of this project is to find out the best strategy to win in PUBG and infer the probability of the team cheating in the game from this data provided by the PUBG team as they made the official game data available for the public to explore and search for outside the “blue circle”.
 ## Question/need:
-•	What is the best strategy to win in PUBG?
-•	Should you sit in one place and hide on your way to victory, or do you need to be in the lead?
+*	What is the best strategy to win in PUBG?
+*	Should you sit in one place and hide on your way to victory, or do you need to be in the lead?
 ## Tools
-•	Python in Jupyter notebook 
-•	Numpy and Pandas for data manipulation
-•	Matplotlib and Seaborn for plotting
-•	Tableau for interactive visualizations
+*	Python in Jupyter notebook 
+*	Numpy and Pandas for data manipulation
+*	Matplotlib and Seaborn for plotting
+*	Tableau for interactive visualizations
 ## Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
 The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. These numbers are consistent with our commonsense of PUBG a group consisting of 3 or 4 players, about 100 players can play in a single match. its consisting of train and test sets and needed to predict final placement from final in game stats and initial player rate. For better understanding of database there is a columns description below:
