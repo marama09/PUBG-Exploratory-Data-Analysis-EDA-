@@ -18,7 +18,10 @@ In this project what we want is analyzing the data and find out what affects the
 * Does killing more people increases the chance of winning the game?
 * How do we catch the fraudsters in the game?
 * Can we predict the finishing position of a player in the game?
-Let's let the data do the talking!
+  <br>
+  
+  Let's let the data do the talking!
+  
 ## Tools
 *	Python in Jupyter notebook 
 *	Numpy and Pandas for data manipulation
