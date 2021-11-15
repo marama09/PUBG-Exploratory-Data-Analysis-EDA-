@@ -8,8 +8,17 @@ Battle Royale style video games have taken over the world. PUBG is very popular 
 ## Motivation <br>
 The objective of this project is to find out the best strategy to win in PUBG and infer the probability of the team cheating in the game from this data provided by the PUBG team as they made the official game data available for the public to explore and search for outside the “blue circle”.
 ## Question/need:
-*	What is the best strategy to win in PUBG?
-*	Should you sit in one place and hide on your way to victory, or do you need to be in the lead?
+In this project what we want is analyzing the data and find out what affects the player's win by answering some questions such as:
+* Who are the highest win (Solos, Duos or Squads)?
+* What is the impact of damage on the number of kills?
+* What is affects of the player's win?
+* What is the amount of work as a team between players?
+* What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? 
+* Can we predict the finishing position of a player in the game?
+* Does killing more people increases the chance of winning the game?
+* How do we catch the fraudsters in the game?
+* Can we predict the finishing position of a player in the game?
+Let's let the data do the talking!
 ## Tools
 *	Python in Jupyter notebook 
 *	Numpy and Pandas for data manipulation
