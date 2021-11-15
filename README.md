@@ -18,7 +18,7 @@ The objective of this project is to find out the best strategy to win in PUBG an
 ## Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
 The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. These numbers are consistent with our commonsense of PUBG a group consisting of 3 or 4 players, about 100 players can play in a single match. its consisting of train and test sets and needed to predict final placement from final in game stats and initial player rate. For better understanding of database there is a columns description below:
-| Syntax      | Description |
+| Field Name	     | Description |
 | ----------- | ----------- |
 | groupId     | Players team ID      |
 | assists     | Number of assisted kills. The killed is actually scored for another teammate        |
@@ -46,10 +46,11 @@ The dataset contains 4446966 rows and 29 columns, there are 4446966 players part
 | weaponsAcquired     | Total distance traveled on foot measured (in meters).|
 | winPoints      | Ranking in a match based on won matches.|
 
-
 And our target column:
-| winPlacePerc| Normalised placement (rank). The 1st place is 1 and the last one is 0. |
+
+| winPlacePerc      | Normalised placement (rank). The 1st place is 1 and the last one is 0. |
 | ----------- | ----------- |
+
 ## Algorithms
 First, we will clean up the data by finding and removing nulls and duplicate values.
 After that, the average of dividing the number of players in one map is calculated, then the average is calculated for each of (Killers, Runners , Drivers, Swimmers, The Healers, Solos, Duos and Squads).
