@@ -18,31 +18,34 @@ The objective of this project is to find out the best strategy to win in PUBG an
 ## Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
 The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. These numbers are consistent with our commonsense of PUBG a group consisting of 3 or 4 players, about 100 players can play in a single match. its consisting of train and test sets and needed to predict final placement from final in game stats and initial player rate. For better understanding of database there is a columns description below:
-- groupId - Players team ID
-- assists - Number of assisted kills. The killed is actually scored for another teammate.
-- boosts - Number of boost items used by a player. These are for example: energy dring, painkillers, adrenaline syringe.
-- damageDealt - Damage dealt to the enemy
-- DBNOs - Down But No Out - when you lose all your HP but you're not killed yet. All you can do is only to crawl.
-- headshotKills - Number of enemies killed with a headshot
-- heals - Number of healing items used by a player. These are for example: bandages, first-aid kits
-- killPlace - Ranking in a match based on kills.
-- killPoints - Ranking in a match based on kills points.
-- kills - Number of enemy players killed.
-- killStreaks - Max number of enemy players killed in a short amount of time.
-- longestKill - Longest distance between player and killed enemy.
-- matchDuration - Duration of a mach in seconds.
-- matchType - Type of match. There are three main modes: Solo, Duo or Squad. In this dataset however we have much more categories.
-- maxPlace - The worst place we in the match.
-- numGroups - Number of groups (teams) in the match.
-- revives - Number of times this player revived teammates.
-- rideDistance - Total distance traveled in vehicles measured in meters.
-- roadKills - Number of kills from a car, bike, boat, etc.
-- swimDistance - Total distance traveled by swimming (in meters).
-- teamKills - Number teammate kills (due to friendly fire).
-- vehicleDestroys - Number of vehicles destroyed.
-- walkDistance - Total distance traveled on foot measured (in meters).
-- weaponsAcquired - Number of weapons picked up.
-- winPoints - Ranking in a match based on won matches.
+| Syntax      | Description |
+| ----------- | ----------- |
+| groupId     | Players team ID      |
+| assists     | Number of assisted kills. The killed is actually scored for another teammate        |
+| boosts      | Number of boost items used by a player. These are for example: energy dring, painkillers, adrenaline syringe |
+| damageDealt | Damage dealt to the enemy |
+| DBNOs       | Down But No Out - when you lose all your HP but you're not killed yet. All you can do is only to crawl |
+| headshotKills      | Number of enemies killed with a headshot |
+| heals      |  Number of healing items used by a player |
+| killPlace      | Ranking in a match based on kills. |
+| killPoints      | Ranking in a match based on kills points |
+| kills      | Number of enemy players killed. |
+| killStreaks      | Max number of enemy players killed in a short amount of time |
+| longestKill      | Longest distance between player and killed enemy. |
+| matchDuration      | Duration of a mach in seconds. |
+| matchType      | Type of match. There are three main modes: Solo, Duo or Squad. In this dataset however we have much more categories. |
+| maxPlace      | The worst place we in the match. |
+| numGroups      | Number of groups (teams) in the match. |
+| revives      | Number of times this player revived teammates. |  
+| rideDistance       |Total distance traveled in vehicles measured in meters. |
+| roadKills       | Number of kills from a car, bike, boat, etc. |  
+| swimDistance      | Total distance traveled by swimming (in meters). |
+| teamKills      | Number teammate kills (due to friendly fire). |
+| vehicleDestroys      | Number of vehicles destroyed. |
+| walkDistance      | Total distance traveled on foot measured (in meters). |
+| weaponsAcquired     | Total distance traveled on foot measured (in meters). |
+| winPoints      | Ranking in a match based on won matches. |
+
 
 And our target column:
 - winPlacePerc - Normalised placement (rank). The 1st place is 1 and the last one is 0.
