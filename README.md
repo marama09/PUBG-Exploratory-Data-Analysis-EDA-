@@ -43,14 +43,13 @@ The dataset contains 4446966 rows and 29 columns, there are 4446966 players part
 | teamKills      | Number teammate kills (due to friendly fire). |
 | vehicleDestroys      | Number of vehicles destroyed. |
 | walkDistance      | Total distance traveled on foot measured (in meters). |
-| weaponsAcquired     | Total distance traveled on foot measured (in meters). |
-| winPoints      | Ranking in a match based on won matches. |
+| weaponsAcquired     | Total distance traveled on foot measured (in meters).|
+| winPoints      | Ranking in a match based on won matches.|
 
 
 And our target column:
-- winPlacePerc - Normalised placement (rank). The 1st place is 1 and the last one is 0.
-
-
+| winPlacePerc| Normalised placement (rank). The 1st place is 1 and the last one is 0. |
+| ----------- | ----------- |
 ## Algorithms
 First, we will clean up the data by finding and removing nulls and duplicate values.
 After that, the average of dividing the number of players in one map is calculated, then the average is calculated for each of (Killers, Runners , Drivers, Swimmers, The Healers, Solos, Duos and Squads).
