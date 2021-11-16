@@ -1,4 +1,4 @@
-# PUBG_best_strategy_to_win
+# PUBG Best Strategy To Win
 <p align="center">
 <img src="https://www.vga4a.com/wp-content/uploads/youtubegaming2560_1440.jpg" width="900" height="400" class="center" alt="accessibility text">
 
