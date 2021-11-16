@@ -10,14 +10,16 @@ The objective of this project is to find out the best strategy to win in PUBG an
 ## Question/need:
 In this project what we want is analyzing the data and find out what affects the player's win by answering some questions such as:
 * Who are the highest win (Solos, Duos or Squads)?
-* What is the impact of damage on the number of kills?
-* What is affects of the player's win?
 * What is the amount of work as a team between players?
+*What is the average of person that kills many players ?
+* How many  99% of people kills have?  
+*  How many most kills are recorded?
+* What is the impact of damage on the number of kills?
 * What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? 
-* Can we predict the finishing position of a player in the game?
 * Does killing more people increases the chance of winning the game?
-* How do we catch the fraudsters in the game?
 * Can we predict the finishing position of a player in the game?
+* What is affects of the player's win?
+* How do we catch the fraudsters in the game?
   <br>
   
   Let's let the data do the talking!
