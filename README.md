@@ -31,7 +31,7 @@ In this project what we want is analyzing the data and find out what affects the
 *	Tableau for interactive visualizations
 ## Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
-The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. These numbers are consistent with our commonsense of PUBG a group consisting of 3 or 4 players, about 100 players can play in a single match. its consisting of train and test sets and needed to predict final placement from final in game stats and initial player rate. For better understanding of database there is a columns description below:
+The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. For better understanding of database there is a columns description below:
 | Field Name	     | Description |
 | ----------- | ----------- |
 | groupId     | Players team ID      |
