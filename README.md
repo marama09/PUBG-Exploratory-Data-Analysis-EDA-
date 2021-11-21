@@ -1,4 +1,4 @@
-# <p align="center"> PUBG Best Strategy To Win
+# <p align="center"> PUBG Exploratory Data Analysis (EDA)
 <p align="center">
 <img src="https://www.vga4a.com/wp-content/uploads/youtubegaming2560_1440.jpg" width="900" height="400" class="center" alt="accessibility text">
 
