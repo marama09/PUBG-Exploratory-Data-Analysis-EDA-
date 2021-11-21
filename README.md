@@ -14,11 +14,8 @@ In this project what we want is analyzing the data and find out what affects the
 * What is the average person that kills many players? ?
 * How many  99% of people kills have?  
 * How many most kills are recorded?
-* What is the impact of damage on the number of kills?
 * What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? 
-* Does killing more people increases the chance of winning the game?
 * Can we predict the finishing position of a player in the game?
-* What is affects of the player's win?
 * How do we catch the fraudsters in the game?
   <br>
   
@@ -27,7 +24,7 @@ In this project what we want is analyzing the data and find out what affects the
 ## Tools
 *	Python in Jupyter notebook 
 *	Numpy and Pandas for data manipulation
-*	Matplotlib and Seaborn for plotting
+*	Matplotlib, Seaborn and plotly for plotting
 *	Tableau for interactive visualizations
 ## Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
