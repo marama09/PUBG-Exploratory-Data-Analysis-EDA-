@@ -3,7 +3,8 @@
 <img src="https://www.vga4a.com/wp-content/uploads/youtubegaming2560_1440.jpg" width="900" height="400" class="center" alt="accessibility text">
 
 ## Introduction 
-Battle Royale style video games have taken over the world. PUBG is very popular it's the fifth best-selling game of all time with millions of players.100 players are dropped on an empty island and must explore, hunt, and eliminate other players to only one player remains until the play area ends. There are 3 playing modes in the game. One can play alone, with a friend (a duo), or with 3 other friends (a squad).
+Battle Royale style video games have taken over the world. PUBG is 100 players are dropped on an empty island and must explore, hunt, and eliminate other players to only one player remains until the play area ends. There are 3 playing modes in the game. One can play alone, with a friend (a duo), or with 3 other friends (a squad).
+
 
 ## Motivation <br>
 The objective of this project is to find out the best strategy to win in PUBG and infer the probability of the team cheating in the game from this data provided by the PUBG team as they made the official game data available for the public to explore and search for outside the “blue circle”.
