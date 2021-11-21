@@ -25,7 +25,6 @@ In this project what we want is analyzing the data and find out what affects the
 *	Python in Jupyter notebook 
 *	Numpy and Pandas for data manipulation
 *	Matplotlib, Seaborn and plotly for plotting
-*	Tableau for interactive visualizations
 ## Data Description:
 Reference: Kaggle Your Machine Learning and Data Science Website [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview).
 The dataset contains 4446966 rows and 29 columns, there are 4446966 players participated, they comprised 2026745 groups, and played 47734 matches included in the data folder as CSV file. For better understanding of database there is a columns description below:
