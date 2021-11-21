@@ -7,7 +7,7 @@ Battle Royale style video games have taken over the world. PUBG is 100 players a
 
 
 ## Motivation <br>
-The objective of this project is to find out the best strategy to win in PUBG and infer the probability of the team cheating in the game from this data provided by the PUBG team as they made the official game data available for the public to explore and search for outside the “blue circle”.
+The objective of this project is to find out the best strategy to win in PUBG and infer the probability of the team cheating in the game from this data.
 ## Question/need:
 In this project what we want is analyzing the data and find out what affects the player's win by answering some questions such as:
 * Who is the highest win (Solos, Duos or Squads)?
